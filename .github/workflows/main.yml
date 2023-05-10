@@ -1,7 +1,7 @@
 name: Wox Build
 
-# on:
-#   push:
+on:
+   push:
 #     branches: master
 
 jobs:
